@@ -1,0 +1,5 @@
+evo2/
+env/
+dnabert_env_py310_pt2/
+df_processed/
+df_wild.csv
