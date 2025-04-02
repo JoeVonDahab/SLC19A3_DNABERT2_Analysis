@@ -42,7 +42,7 @@ The model achieves excellent performance with:
 ## Model Characteristics
 
 The neural network demonstrates:
-- Good recall (0.93) for Wild type class
+- Good Overall Accuracy (86%)
 - Balanced performance across most classes
 - Some challenges with the Pathological Variants class, likely due to limited training examples
 
